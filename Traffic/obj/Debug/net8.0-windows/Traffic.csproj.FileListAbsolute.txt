@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\Traffic\bin\Debug\net8.0-windows\Traffic.exe
+C:\Users\Lenovo\source\repos\Traffic\bin\Debug\net8.0-windows\Traffic.deps.json
+C:\Users\Lenovo\source\repos\Traffic\bin\Debug\net8.0-windows\Traffic.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Traffic\bin\Debug\net8.0-windows\Traffic.dll
+C:\Users\Lenovo\source\repos\Traffic\bin\Debug\net8.0-windows\Traffic.pdb
+C:\Users\Lenovo\source\repos\Traffic\obj\Debug\net8.0-windows\Traffic.Form1.resources
+C:\Users\Lenovo\source\repos\Traffic\obj\Debug\net8.0-windows\Traffic.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Traffic\obj\Debug\net8.0-windows\Traffic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Traffic\obj\Debug\net8.0-windows\Traffic.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Traffic\obj\Debug\net8.0-windows\Traffic.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Traffic\obj\Debug\net8.0-windows\Traffic.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Traffic\obj\Debug\net8.0-windows\Traffic.sourcelink.json
+C:\Users\Lenovo\source\repos\Traffic\obj\Debug\net8.0-windows\Traffic.dll
+C:\Users\Lenovo\source\repos\Traffic\obj\Debug\net8.0-windows\refint\Traffic.dll
+C:\Users\Lenovo\source\repos\Traffic\obj\Debug\net8.0-windows\Traffic.pdb
+C:\Users\Lenovo\source\repos\Traffic\obj\Debug\net8.0-windows\Traffic.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Traffic\obj\Debug\net8.0-windows\ref\Traffic.dll

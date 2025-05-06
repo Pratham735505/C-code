@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\contacts\obj\Debug\net8.0\contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\contacts\obj\Debug\net8.0\contacts.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\contacts\obj\Debug\net8.0\contacts.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\contacts\obj\Debug\net8.0\contacts.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\contacts\obj\Debug\net8.0\contacts.sourcelink.json
+C:\Users\Lenovo\source\repos\contacts\bin\Debug\net8.0\contacts.exe
+C:\Users\Lenovo\source\repos\contacts\bin\Debug\net8.0\contacts.deps.json
+C:\Users\Lenovo\source\repos\contacts\bin\Debug\net8.0\contacts.runtimeconfig.json
+C:\Users\Lenovo\source\repos\contacts\bin\Debug\net8.0\contacts.dll
+C:\Users\Lenovo\source\repos\contacts\bin\Debug\net8.0\contacts.pdb
+C:\Users\Lenovo\source\repos\contacts\obj\Debug\net8.0\contacts.dll
+C:\Users\Lenovo\source\repos\contacts\obj\Debug\net8.0\refint\contacts.dll
+C:\Users\Lenovo\source\repos\contacts\obj\Debug\net8.0\contacts.pdb
+C:\Users\Lenovo\source\repos\contacts\obj\Debug\net8.0\contacts.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\contacts\obj\Debug\net8.0\ref\contacts.dll

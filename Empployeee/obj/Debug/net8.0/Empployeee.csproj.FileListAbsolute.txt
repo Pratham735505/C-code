@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Empployeee\bin\Debug\net8.0\Empployeee.exe
+C:\Users\Lenovo\source\repos\Empployeee\bin\Debug\net8.0\Empployeee.deps.json
+C:\Users\Lenovo\source\repos\Empployeee\bin\Debug\net8.0\Empployeee.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Empployeee\bin\Debug\net8.0\Empployeee.dll
+C:\Users\Lenovo\source\repos\Empployeee\bin\Debug\net8.0\Empployeee.pdb
+C:\Users\Lenovo\source\repos\Empployeee\obj\Debug\net8.0\Empployeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Empployeee\obj\Debug\net8.0\Empployeee.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Empployeee\obj\Debug\net8.0\Empployeee.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Empployeee\obj\Debug\net8.0\Empployeee.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Empployeee\obj\Debug\net8.0\Empployeee.sourcelink.json
+C:\Users\Lenovo\source\repos\Empployeee\obj\Debug\net8.0\Empployeee.dll
+C:\Users\Lenovo\source\repos\Empployeee\obj\Debug\net8.0\refint\Empployeee.dll
+C:\Users\Lenovo\source\repos\Empployeee\obj\Debug\net8.0\Empployeee.pdb
+C:\Users\Lenovo\source\repos\Empployeee\obj\Debug\net8.0\Empployeee.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Empployeee\obj\Debug\net8.0\ref\Empployeee.dll

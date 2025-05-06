@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\numandstr\bin\Debug\net8.0\numandstr.deps.json
+C:\Users\Lenovo\source\repos\numandstr\bin\Debug\net8.0\numandstr.dll
+C:\Users\Lenovo\source\repos\numandstr\bin\Debug\net8.0\numandstr.pdb
+C:\Users\Lenovo\source\repos\numandstr\obj\Debug\net8.0\numandstr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\numandstr\obj\Debug\net8.0\numandstr.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\numandstr\obj\Debug\net8.0\numandstr.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\numandstr\obj\Debug\net8.0\numandstr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\numandstr\obj\Debug\net8.0\numandstr.sourcelink.json
+C:\Users\Lenovo\source\repos\numandstr\obj\Debug\net8.0\numandstr.dll
+C:\Users\Lenovo\source\repos\numandstr\obj\Debug\net8.0\refint\numandstr.dll
+C:\Users\Lenovo\source\repos\numandstr\obj\Debug\net8.0\numandstr.pdb
+C:\Users\Lenovo\source\repos\numandstr\obj\Debug\net8.0\ref\numandstr.dll

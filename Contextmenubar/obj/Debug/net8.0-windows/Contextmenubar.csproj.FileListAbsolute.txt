@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\Contextmenubar\bin\Debug\net8.0-windows\Contextmenubar.exe
+C:\Users\Lenovo\source\repos\Contextmenubar\bin\Debug\net8.0-windows\Contextmenubar.deps.json
+C:\Users\Lenovo\source\repos\Contextmenubar\bin\Debug\net8.0-windows\Contextmenubar.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Contextmenubar\bin\Debug\net8.0-windows\Contextmenubar.dll
+C:\Users\Lenovo\source\repos\Contextmenubar\bin\Debug\net8.0-windows\Contextmenubar.pdb
+C:\Users\Lenovo\source\repos\Contextmenubar\obj\Debug\net8.0-windows\Contextmenubar.Form1.resources
+C:\Users\Lenovo\source\repos\Contextmenubar\obj\Debug\net8.0-windows\Contextmenubar.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Contextmenubar\obj\Debug\net8.0-windows\Contextmenubar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Contextmenubar\obj\Debug\net8.0-windows\Contextmenubar.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Contextmenubar\obj\Debug\net8.0-windows\Contextmenubar.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Contextmenubar\obj\Debug\net8.0-windows\Contextmenubar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Contextmenubar\obj\Debug\net8.0-windows\Contextmenubar.sourcelink.json
+C:\Users\Lenovo\source\repos\Contextmenubar\obj\Debug\net8.0-windows\Contextmenubar.dll
+C:\Users\Lenovo\source\repos\Contextmenubar\obj\Debug\net8.0-windows\refint\Contextmenubar.dll
+C:\Users\Lenovo\source\repos\Contextmenubar\obj\Debug\net8.0-windows\Contextmenubar.pdb
+C:\Users\Lenovo\source\repos\Contextmenubar\obj\Debug\net8.0-windows\Contextmenubar.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Contextmenubar\obj\Debug\net8.0-windows\ref\Contextmenubar.dll

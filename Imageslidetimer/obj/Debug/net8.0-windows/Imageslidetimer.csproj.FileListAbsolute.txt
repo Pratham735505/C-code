@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\Imageslidetimer\bin\Debug\net8.0-windows\Imageslidetimer.exe
+C:\Users\Lenovo\source\repos\Imageslidetimer\bin\Debug\net8.0-windows\Imageslidetimer.deps.json
+C:\Users\Lenovo\source\repos\Imageslidetimer\bin\Debug\net8.0-windows\Imageslidetimer.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Imageslidetimer\bin\Debug\net8.0-windows\Imageslidetimer.dll
+C:\Users\Lenovo\source\repos\Imageslidetimer\bin\Debug\net8.0-windows\Imageslidetimer.pdb
+C:\Users\Lenovo\source\repos\Imageslidetimer\obj\Debug\net8.0-windows\Imageslidetimer.Form1.resources
+C:\Users\Lenovo\source\repos\Imageslidetimer\obj\Debug\net8.0-windows\Imageslidetimer.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Imageslidetimer\obj\Debug\net8.0-windows\Imageslidetimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Imageslidetimer\obj\Debug\net8.0-windows\Imageslidetimer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Imageslidetimer\obj\Debug\net8.0-windows\Imageslidetimer.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Imageslidetimer\obj\Debug\net8.0-windows\Imageslidetimer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Imageslidetimer\obj\Debug\net8.0-windows\Imageslidetimer.sourcelink.json
+C:\Users\Lenovo\source\repos\Imageslidetimer\obj\Debug\net8.0-windows\Imageslidetimer.dll
+C:\Users\Lenovo\source\repos\Imageslidetimer\obj\Debug\net8.0-windows\refint\Imageslidetimer.dll
+C:\Users\Lenovo\source\repos\Imageslidetimer\obj\Debug\net8.0-windows\Imageslidetimer.pdb
+C:\Users\Lenovo\source\repos\Imageslidetimer\obj\Debug\net8.0-windows\Imageslidetimer.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Imageslidetimer\obj\Debug\net8.0-windows\ref\Imageslidetimer.dll

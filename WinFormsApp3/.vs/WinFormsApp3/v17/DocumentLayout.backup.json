@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|c:\\users\\lenovo\\source\\repos\\winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|c:\\users\\lenovo\\source\\repos\\winformsapp3\\armstrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|solutionrelative:armstrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|c:\\users\\lenovo\\source\\repos\\winformsapp3\\bmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|solutionrelative:bmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|c:\\users\\lenovo\\source\\repos\\winformsapp3\\prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|solutionrelative:prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\armstrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|solutionrelative:armstrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|c:\\users\\lenovo\\source\\repos\\winformsapp3\\cels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|solutionrelative:cels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|c:\\users\\lenovo\\source\\repos\\winformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|c:\\users\\lenovo\\source\\repos\\winformsapp3\\str.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|solutionrelative:str.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|solutionrelative:prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\bmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|solutionrelative:bmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\str.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|solutionrelative:str.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\cels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B541637A-5A76-47C4-B71C-D4183D88C868}|WinFormsApp3.csproj|solutionrelative:cels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BMI.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\BMI.cs",
+              "RelativeDocumentMoniker": "BMI.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\BMI.cs",
+              "RelativeToolTip": "BMI.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:17:45.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prime.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Prime.cs",
+              "RelativeDocumentMoniker": "Prime.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Prime.cs",
+              "RelativeToolTip": "Prime.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAADwvzIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:10:40.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAswNEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:25:58.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cels.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Cels.cs",
+              "RelativeDocumentMoniker": "Cels.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Cels.cs",
+              "RelativeToolTip": "Cels.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:46:56.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Armstrong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Armstrong.cs",
+              "RelativeDocumentMoniker": "Armstrong.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Armstrong.cs [Design]",
+              "RelativeToolTip": "Armstrong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:25:15.956Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Armstrong.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Armstrong.cs",
+              "RelativeDocumentMoniker": "Armstrong.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Armstrong.cs",
+              "RelativeToolTip": "Armstrong.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:25:53.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:44:26.178Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "str.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\str.cs",
+              "RelativeDocumentMoniker": "str.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\str.cs",
+              "RelativeToolTip": "str.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:53:42.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAzwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:46:14.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cels.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Cels.cs",
+              "RelativeDocumentMoniker": "Cels.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Cels.cs [Design]",
+              "RelativeToolTip": "Cels.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:44:49.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "str.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\str.cs",
+              "RelativeDocumentMoniker": "str.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\str.cs [Design]",
+              "RelativeToolTip": "str.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:52:36.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BMI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\BMI.cs",
+              "RelativeDocumentMoniker": "BMI.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\BMI.cs [Design]",
+              "RelativeToolTip": "BMI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:12:34.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prime.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Prime.cs",
+              "RelativeDocumentMoniker": "Prime.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Prime.cs [Design]",
+              "RelativeToolTip": "Prime.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:10:05.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WinFormsApp3\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:24:10.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

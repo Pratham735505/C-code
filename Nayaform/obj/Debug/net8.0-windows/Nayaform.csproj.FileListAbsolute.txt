@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\Nayaform\bin\Debug\net8.0-windows\Nayaform.exe
+C:\Users\Lenovo\source\repos\Nayaform\bin\Debug\net8.0-windows\Nayaform.deps.json
+C:\Users\Lenovo\source\repos\Nayaform\bin\Debug\net8.0-windows\Nayaform.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Nayaform\bin\Debug\net8.0-windows\Nayaform.dll
+C:\Users\Lenovo\source\repos\Nayaform\bin\Debug\net8.0-windows\Nayaform.pdb
+C:\Users\Lenovo\source\repos\Nayaform\obj\Debug\net8.0-windows\Nayaform.Form1.resources
+C:\Users\Lenovo\source\repos\Nayaform\obj\Debug\net8.0-windows\Nayaform.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Nayaform\obj\Debug\net8.0-windows\Nayaform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Nayaform\obj\Debug\net8.0-windows\Nayaform.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Nayaform\obj\Debug\net8.0-windows\Nayaform.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Nayaform\obj\Debug\net8.0-windows\Nayaform.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Nayaform\obj\Debug\net8.0-windows\Nayaform.sourcelink.json
+C:\Users\Lenovo\source\repos\Nayaform\obj\Debug\net8.0-windows\Nayaform.dll
+C:\Users\Lenovo\source\repos\Nayaform\obj\Debug\net8.0-windows\refint\Nayaform.dll
+C:\Users\Lenovo\source\repos\Nayaform\obj\Debug\net8.0-windows\Nayaform.pdb
+C:\Users\Lenovo\source\repos\Nayaform\obj\Debug\net8.0-windows\Nayaform.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Nayaform\obj\Debug\net8.0-windows\ref\Nayaform.dll

@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Assapplib\bin\Debug\net8.0\Assapplib.deps.json
+C:\Users\Lenovo\source\repos\Assapplib\bin\Debug\net8.0\Assapplib.dll
+C:\Users\Lenovo\source\repos\Assapplib\bin\Debug\net8.0\Assapplib.pdb
+C:\Users\Lenovo\source\repos\Assapplib\obj\Debug\net8.0\Assapplib.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Assapplib\obj\Debug\net8.0\Assapplib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Assapplib\obj\Debug\net8.0\Assapplib.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Assapplib\obj\Debug\net8.0\Assapplib.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Assapplib\obj\Debug\net8.0\Assapplib.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Assapplib\obj\Debug\net8.0\Assapplib.sourcelink.json
+C:\Users\Lenovo\source\repos\Assapplib\obj\Debug\net8.0\Assapplib.dll
+C:\Users\Lenovo\source\repos\Assapplib\obj\Debug\net8.0\refint\Assapplib.dll
+C:\Users\Lenovo\source\repos\Assapplib\obj\Debug\net8.0\Assapplib.pdb
+C:\Users\Lenovo\source\repos\Assapplib\obj\Debug\net8.0\ref\Assapplib.dll

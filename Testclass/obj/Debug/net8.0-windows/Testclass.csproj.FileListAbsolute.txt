@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\Testclass\bin\Debug\net8.0-windows\Testclass.exe
+C:\Users\Lenovo\source\repos\Testclass\bin\Debug\net8.0-windows\Testclass.deps.json
+C:\Users\Lenovo\source\repos\Testclass\bin\Debug\net8.0-windows\Testclass.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Testclass\bin\Debug\net8.0-windows\Testclass.dll
+C:\Users\Lenovo\source\repos\Testclass\bin\Debug\net8.0-windows\Testclass.pdb
+C:\Users\Lenovo\source\repos\Testclass\obj\Debug\net8.0-windows\Testclass.Form1.resources
+C:\Users\Lenovo\source\repos\Testclass\obj\Debug\net8.0-windows\Testclass.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Testclass\obj\Debug\net8.0-windows\Testclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Testclass\obj\Debug\net8.0-windows\Testclass.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Testclass\obj\Debug\net8.0-windows\Testclass.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Testclass\obj\Debug\net8.0-windows\Testclass.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Testclass\obj\Debug\net8.0-windows\Testclass.sourcelink.json
+C:\Users\Lenovo\source\repos\Testclass\obj\Debug\net8.0-windows\Testclass.dll
+C:\Users\Lenovo\source\repos\Testclass\obj\Debug\net8.0-windows\refint\Testclass.dll
+C:\Users\Lenovo\source\repos\Testclass\obj\Debug\net8.0-windows\Testclass.pdb
+C:\Users\Lenovo\source\repos\Testclass\obj\Debug\net8.0-windows\Testclass.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Testclass\obj\Debug\net8.0-windows\ref\Testclass.dll

@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\Imageslidebutton\bin\Debug\net8.0-windows\Imageslidebutton.exe
+C:\Users\Lenovo\source\repos\Imageslidebutton\bin\Debug\net8.0-windows\Imageslidebutton.deps.json
+C:\Users\Lenovo\source\repos\Imageslidebutton\bin\Debug\net8.0-windows\Imageslidebutton.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Imageslidebutton\bin\Debug\net8.0-windows\Imageslidebutton.dll
+C:\Users\Lenovo\source\repos\Imageslidebutton\bin\Debug\net8.0-windows\Imageslidebutton.pdb
+C:\Users\Lenovo\source\repos\Imageslidebutton\obj\Debug\net8.0-windows\Imageslidebutton.Form1.resources
+C:\Users\Lenovo\source\repos\Imageslidebutton\obj\Debug\net8.0-windows\Imageslidebutton.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Imageslidebutton\obj\Debug\net8.0-windows\Imageslidebutton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Imageslidebutton\obj\Debug\net8.0-windows\Imageslidebutton.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Imageslidebutton\obj\Debug\net8.0-windows\Imageslidebutton.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Imageslidebutton\obj\Debug\net8.0-windows\Imageslidebutton.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Imageslidebutton\obj\Debug\net8.0-windows\Imageslidebutton.sourcelink.json
+C:\Users\Lenovo\source\repos\Imageslidebutton\obj\Debug\net8.0-windows\Imageslidebutton.dll
+C:\Users\Lenovo\source\repos\Imageslidebutton\obj\Debug\net8.0-windows\refint\Imageslidebutton.dll
+C:\Users\Lenovo\source\repos\Imageslidebutton\obj\Debug\net8.0-windows\Imageslidebutton.pdb
+C:\Users\Lenovo\source\repos\Imageslidebutton\obj\Debug\net8.0-windows\Imageslidebutton.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Imageslidebutton\obj\Debug\net8.0-windows\ref\Imageslidebutton.dll

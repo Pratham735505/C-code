@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Encrypt\obj\Debug\net8.0\Encrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Encrypt\obj\Debug\net8.0\Encrypt.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Encrypt\obj\Debug\net8.0\Encrypt.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Encrypt\obj\Debug\net8.0\Encrypt.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Encrypt\obj\Debug\net8.0\Encrypt.sourcelink.json
+C:\Users\Lenovo\source\repos\Encrypt\bin\Debug\net8.0\Encrypt.exe
+C:\Users\Lenovo\source\repos\Encrypt\bin\Debug\net8.0\Encrypt.deps.json
+C:\Users\Lenovo\source\repos\Encrypt\bin\Debug\net8.0\Encrypt.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Encrypt\bin\Debug\net8.0\Encrypt.dll
+C:\Users\Lenovo\source\repos\Encrypt\bin\Debug\net8.0\Encrypt.pdb
+C:\Users\Lenovo\source\repos\Encrypt\obj\Debug\net8.0\Encrypt.dll
+C:\Users\Lenovo\source\repos\Encrypt\obj\Debug\net8.0\refint\Encrypt.dll
+C:\Users\Lenovo\source\repos\Encrypt\obj\Debug\net8.0\Encrypt.pdb
+C:\Users\Lenovo\source\repos\Encrypt\obj\Debug\net8.0\Encrypt.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Encrypt\obj\Debug\net8.0\ref\Encrypt.dll

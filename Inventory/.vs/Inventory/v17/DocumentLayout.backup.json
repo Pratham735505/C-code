@@ -1,0 +1,608 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\ordermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:ordermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\ordermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:ordermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\payment gateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:payment gateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\payment gateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:payment gateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\customerorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:customerorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\customerorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:customerorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\productmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:productmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\categorymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:categorymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\categorymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:categorymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\category edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:category edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\customer edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:customer edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\productmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:productmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\usermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:usermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\usermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:usermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\user delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:user delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\user delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:user delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\customer edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:customer edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\customermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:customermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|c:\\users\\lenovo\\source\\repos\\inventory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|C:\\Users\\Lenovo\\source\\repos\\Inventory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00A57BF9-7DAD-4823-BFC6-08C7D9C5A33A}|Inventory.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customerorders.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Customerorders.cs",
+              "RelativeDocumentMoniker": "Customerorders.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Customerorders.cs",
+              "RelativeToolTip": "Customerorders.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:54:36.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customerorders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Customerorders.cs",
+              "RelativeDocumentMoniker": "Customerorders.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Customerorders.cs [Design]",
+              "RelativeToolTip": "Customerorders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:54:33.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Cart.cs",
+              "RelativeDocumentMoniker": "Cart.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Cart.cs",
+              "RelativeToolTip": "Cart.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:50:59.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Cart.cs",
+              "RelativeDocumentMoniker": "Cart.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Cart.cs [Design]",
+              "RelativeToolTip": "Cart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:50:56.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryModule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\CategoryModule.cs",
+              "RelativeDocumentMoniker": "CategoryModule.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\CategoryModule.cs [Design]",
+              "RelativeToolTip": "CategoryModule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:44:17.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ordermodule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Ordermodule.cs",
+              "RelativeDocumentMoniker": "Ordermodule.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Ordermodule.cs [Design]",
+              "RelativeToolTip": "Ordermodule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:08:35.995Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ordermodule.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Ordermodule.cs",
+              "RelativeDocumentMoniker": "Ordermodule.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Ordermodule.cs",
+              "RelativeToolTip": "Ordermodule.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAiwNgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:08:39.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment gateway.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Payment gateway.cs",
+              "RelativeDocumentMoniker": "Payment gateway.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Payment gateway.cs [Design]",
+              "RelativeToolTip": "Payment gateway.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:57:33.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payment gateway.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Payment gateway.cs",
+              "RelativeDocumentMoniker": "Payment gateway.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Payment gateway.cs",
+              "RelativeToolTip": "Payment gateway.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:57:35.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category Edit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Category Edit.cs",
+              "RelativeDocumentMoniker": "Category Edit.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Category Edit.cs [Design]",
+              "RelativeToolTip": "Category Edit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:47:15.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryModule.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\CategoryModule.cs",
+              "RelativeDocumentMoniker": "CategoryModule.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\CategoryModule.cs",
+              "RelativeToolTip": "CategoryModule.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:39:11.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Orderform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Orderform.cs",
+              "RelativeDocumentMoniker": "Orderform.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Orderform.cs [Design]",
+              "RelativeToolTip": "Orderform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:02:02.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Productmodule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Productmodule.cs",
+              "RelativeDocumentMoniker": "Productmodule.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Productmodule.cs [Design]",
+              "RelativeToolTip": "Productmodule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:30:30.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orderform.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Orderform.cs",
+              "RelativeDocumentMoniker": "Orderform.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Orderform.cs",
+              "RelativeToolTip": "Orderform.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAnwIAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:02:04.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Categoryform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Categoryform.cs",
+              "RelativeDocumentMoniker": "Categoryform.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Categoryform.cs [Design]",
+              "RelativeToolTip": "Categoryform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:55:54.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Categoryform.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Categoryform.cs",
+              "RelativeDocumentMoniker": "Categoryform.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Categoryform.cs",
+              "RelativeToolTip": "Categoryform.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:55:58.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Productform.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Productform.cs",
+              "RelativeDocumentMoniker": "Productform.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Productform.cs",
+              "RelativeToolTip": "Productform.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAjwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:30:45.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer edit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Customer edit.cs",
+              "RelativeDocumentMoniker": "Customer edit.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Customer edit.cs [Design]",
+              "RelativeToolTip": "Customer edit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:33:09.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Productmodule.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Productmodule.cs",
+              "RelativeDocumentMoniker": "Productmodule.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Productmodule.cs",
+              "RelativeToolTip": "Productmodule.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:37:46.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Productform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Productform.cs",
+              "RelativeDocumentMoniker": "Productform.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Productform.cs [Design]",
+              "RelativeToolTip": "Productform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:30:42.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Admin.cs",
+              "RelativeToolTip": "Admin.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:49:33.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserModule.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\UserModule.cs",
+              "RelativeDocumentMoniker": "UserModule.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\UserModule.cs",
+              "RelativeToolTip": "UserModule.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAQwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:46:52.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User delete.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\User delete.cs",
+              "RelativeDocumentMoniker": "User delete.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\User delete.cs",
+              "RelativeToolTip": "User delete.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAYwKoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:42:13.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User delete.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\User delete.cs",
+              "RelativeDocumentMoniker": "User delete.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\User delete.cs [Design]",
+              "RelativeToolTip": "User delete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:41:59.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Userform.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Userform.cs",
+              "RelativeDocumentMoniker": "Userform.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Userform.cs",
+              "RelativeToolTip": "Userform.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAjwEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:37:07.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Customer edit.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Customer edit.cs",
+              "RelativeDocumentMoniker": "Customer edit.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Customer edit.cs",
+              "RelativeToolTip": "Customer edit.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAgwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:33:11.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Customerform.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Customerform.cs",
+              "RelativeDocumentMoniker": "Customerform.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Customerform.cs",
+              "RelativeToolTip": "Customerform.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAjwEIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:26:08.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Customerform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Customerform.cs",
+              "RelativeDocumentMoniker": "Customerform.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Customerform.cs [Design]",
+              "RelativeToolTip": "Customerform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:25:59.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Admin.cs [Design]",
+              "RelativeToolTip": "Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:11:28.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Mainform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Mainform.cs",
+              "RelativeDocumentMoniker": "Mainform.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Mainform.cs [Design]",
+              "RelativeToolTip": "Mainform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:11:39.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserModule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\UserModule.cs",
+              "RelativeDocumentMoniker": "UserModule.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\UserModule.cs [Design]",
+              "RelativeToolTip": "UserModule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:11:19.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomerModule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\CustomerModule.cs",
+              "RelativeDocumentMoniker": "CustomerModule.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\CustomerModule.cs [Design]",
+              "RelativeToolTip": "CustomerModule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:25:57.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Userform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Userform.cs",
+              "RelativeDocumentMoniker": "Userform.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Userform.cs [Design]",
+              "RelativeToolTip": "Userform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:11:17.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Mainform.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Mainform.Designer.cs",
+              "RelativeDocumentMoniker": "Mainform.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Mainform.Designer.cs",
+              "RelativeToolTip": "Mainform.Designer.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAuwNsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:19:01.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Mainform.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Mainform.cs",
+              "RelativeDocumentMoniker": "Mainform.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Mainform.cs",
+              "RelativeToolTip": "Mainform.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:11:44.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAAAGgBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:56:13.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Inventory\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:12:37.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

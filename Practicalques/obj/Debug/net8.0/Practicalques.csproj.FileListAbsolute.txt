@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Practicalques\bin\Debug\net8.0\Practicalques.exe
+C:\Users\Lenovo\source\repos\Practicalques\bin\Debug\net8.0\Practicalques.deps.json
+C:\Users\Lenovo\source\repos\Practicalques\bin\Debug\net8.0\Practicalques.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Practicalques\bin\Debug\net8.0\Practicalques.dll
+C:\Users\Lenovo\source\repos\Practicalques\bin\Debug\net8.0\Practicalques.pdb
+C:\Users\Lenovo\source\repos\Practicalques\obj\Debug\net8.0\Practicalques.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Practicalques\obj\Debug\net8.0\Practicalques.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Practicalques\obj\Debug\net8.0\Practicalques.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Practicalques\obj\Debug\net8.0\Practicalques.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Practicalques\obj\Debug\net8.0\Practicalques.sourcelink.json
+C:\Users\Lenovo\source\repos\Practicalques\obj\Debug\net8.0\Practicalques.dll
+C:\Users\Lenovo\source\repos\Practicalques\obj\Debug\net8.0\refint\Practicalques.dll
+C:\Users\Lenovo\source\repos\Practicalques\obj\Debug\net8.0\Practicalques.pdb
+C:\Users\Lenovo\source\repos\Practicalques\obj\Debug\net8.0\Practicalques.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Practicalques\obj\Debug\net8.0\ref\Practicalques.dll

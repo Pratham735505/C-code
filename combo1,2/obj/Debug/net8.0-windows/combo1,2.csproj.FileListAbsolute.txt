@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\combo1,2\bin\Debug\net8.0-windows\combo1,2.exe
+C:\Users\Lenovo\source\repos\combo1,2\bin\Debug\net8.0-windows\combo1,2.deps.json
+C:\Users\Lenovo\source\repos\combo1,2\bin\Debug\net8.0-windows\combo1,2.runtimeconfig.json
+C:\Users\Lenovo\source\repos\combo1,2\bin\Debug\net8.0-windows\combo1,2.dll
+C:\Users\Lenovo\source\repos\combo1,2\bin\Debug\net8.0-windows\combo1,2.pdb
+C:\Users\Lenovo\source\repos\combo1,2\obj\Debug\net8.0-windows\combo1_2.Form1.resources
+C:\Users\Lenovo\source\repos\combo1,2\obj\Debug\net8.0-windows\combo1,2.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\combo1,2\obj\Debug\net8.0-windows\combo1,2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\combo1,2\obj\Debug\net8.0-windows\combo1,2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\combo1,2\obj\Debug\net8.0-windows\combo1,2.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\combo1,2\obj\Debug\net8.0-windows\combo1,2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\combo1,2\obj\Debug\net8.0-windows\combo1,2.sourcelink.json
+C:\Users\Lenovo\source\repos\combo1,2\obj\Debug\net8.0-windows\combo1,2.dll
+C:\Users\Lenovo\source\repos\combo1,2\obj\Debug\net8.0-windows\refint\combo1,2.dll
+C:\Users\Lenovo\source\repos\combo1,2\obj\Debug\net8.0-windows\combo1,2.pdb
+C:\Users\Lenovo\source\repos\combo1,2\obj\Debug\net8.0-windows\combo1,2.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\combo1,2\obj\Debug\net8.0-windows\ref\combo1,2.dll

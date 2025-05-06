@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Groupboxxes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88E5130D-BA88-45B2-8849-FEB0F70BCC89}|Groupboxxes.csproj|c:\\users\\lenovo\\source\\repos\\groupboxxes\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88E5130D-BA88-45B2-8849-FEB0F70BCC89}|Groupboxxes.csproj|solutionrelative:image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E5130D-BA88-45B2-8849-FEB0F70BCC89}|Groupboxxes.csproj|c:\\users\\lenovo\\source\\repos\\groupboxxes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88E5130D-BA88-45B2-8849-FEB0F70BCC89}|Groupboxxes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E5130D-BA88-45B2-8849-FEB0F70BCC89}|Groupboxxes.csproj|c:\\users\\lenovo\\source\\repos\\groupboxxes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E5130D-BA88-45B2-8849-FEB0F70BCC89}|Groupboxxes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E5130D-BA88-45B2-8849-FEB0F70BCC89}|Groupboxxes.csproj|c:\\users\\lenovo\\source\\repos\\groupboxxes\\icon1.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{88E5130D-BA88-45B2-8849-FEB0F70BCC89}|Groupboxxes.csproj|solutionrelative:icon1.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Image.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Groupboxxes\\Image.cs",
+              "RelativeDocumentMoniker": "Image.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Groupboxxes\\Image.cs [Design]",
+              "RelativeToolTip": "Image.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:37:04.372Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Icon1.ico -  [English (United States)] - Icon [32x32, 8 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Groupboxxes\\Icon1.ico",
+              "RelativeDocumentMoniker": "Icon1.ico",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Groupboxxes\\Icon1.ico -  [English (United States)] - Icon [32x32, 8 bit, BMP]",
+              "RelativeToolTip": "Icon1.ico -  [English (United States)] - Icon [32x32, 8 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-10-07T03:18:43.164Z",
+              "EditorCaption": " -  [English (United States)] - Icon [32x32, 8 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Groupboxxes\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Groupboxxes\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAtwEAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:52:14.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Groupboxxes\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Groupboxxes\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:49:48.728Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

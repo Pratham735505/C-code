@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\Userlogin\bin\Debug\net8.0-windows\Userlogin.exe
+C:\Users\Lenovo\source\repos\Userlogin\bin\Debug\net8.0-windows\Userlogin.deps.json
+C:\Users\Lenovo\source\repos\Userlogin\bin\Debug\net8.0-windows\Userlogin.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Userlogin\bin\Debug\net8.0-windows\Userlogin.dll
+C:\Users\Lenovo\source\repos\Userlogin\bin\Debug\net8.0-windows\Userlogin.pdb
+C:\Users\Lenovo\source\repos\Userlogin\obj\Debug\net8.0-windows\Userlogin.Form1.resources
+C:\Users\Lenovo\source\repos\Userlogin\obj\Debug\net8.0-windows\Userlogin.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Userlogin\obj\Debug\net8.0-windows\Userlogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Userlogin\obj\Debug\net8.0-windows\Userlogin.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Userlogin\obj\Debug\net8.0-windows\Userlogin.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Userlogin\obj\Debug\net8.0-windows\Userlogin.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Userlogin\obj\Debug\net8.0-windows\Userlogin.sourcelink.json
+C:\Users\Lenovo\source\repos\Userlogin\obj\Debug\net8.0-windows\Userlogin.dll
+C:\Users\Lenovo\source\repos\Userlogin\obj\Debug\net8.0-windows\refint\Userlogin.dll
+C:\Users\Lenovo\source\repos\Userlogin\obj\Debug\net8.0-windows\Userlogin.pdb
+C:\Users\Lenovo\source\repos\Userlogin\obj\Debug\net8.0-windows\Userlogin.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Userlogin\obj\Debug\net8.0-windows\ref\Userlogin.dll
